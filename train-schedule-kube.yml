@@ -10,9 +10,7 @@ spec:
   - protocol: TCP
     port: 8080
     nodePort: 8081
-
-	---
-
+---
 apiVersion: extansions/v1beta1
 kind: Deployment
 metadata:
